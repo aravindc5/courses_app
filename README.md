@@ -1,5 +1,9 @@
 # courses_app
 
+# Web preview:
+
+https://fluttermedia-bd886.web.app/#/
+
 A new Flutter application.
 
 ## Getting Started
